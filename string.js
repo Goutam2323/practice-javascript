@@ -24,7 +24,7 @@ console.log("concat:", str.concat(" Welcome!"));
 console.log("endsWith 'tam':", str.endsWith("tam"));
 
 // String.fromCharCode() → converts Unicode numbers to characters (static method)
-console.log("fromCharCode:", String.fromCharCode(72, 105));
+console.log("fromCharCode:", String.fromCharCode(72, 105,67));
 
 // includes() → checks if string contains given substring
 console.log("includes 'Gou':", str.includes("Gou"));
